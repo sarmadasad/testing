@@ -14,3 +14,10 @@ while ($a==5)
 
 ////kdsafhsahdfsa
 //sadjfaskdfasjdk
+
+
+while ($a==5)
+{
+    echo $a;
+    $a++;
+}
