@@ -21,3 +21,5 @@ while ($a==5)
     echo $a;
     $a++;
 }
+
+# By Salman
